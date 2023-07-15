@@ -1,0 +1,8 @@
+
+https://h8jf5iveq8.execute-api.ap-south-1.amazonaws.com/dev
+
+
+
+
+
+arn:aws:dynamodb:ap-south-1:771862954791:table/PowerOfMathDatabase2
